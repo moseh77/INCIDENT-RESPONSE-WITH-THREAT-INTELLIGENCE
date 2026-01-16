@@ -74,13 +74,7 @@ Ready-to-use incident response playbooks for common security scenarios.
 4. Implement the automations in your security stack
 5. Use the learning materials to train your team
 
-## 🤝 Contributing
 
-Contributions are welcome! Please read our contribution guidelines before submitting pull requests.
-
-## 📄 License
-
-This project is licensed under the [MIT License] - see the LICENSE file for details.
 
 ## 📧 Contact
 
