@@ -66,16 +66,6 @@ Ready-to-use incident response playbooks for common security scenarios.
 - **Threat Intelligence**: Integration of threat intelligence into response workflows
 - **Learning Resources**: Structured learning path for developing incident response skills
 
-## 📚 Getting Started
-
-1. Clone this repository
-2. Review the playbooks relevant to your needs
-3. Customize the templates to match your organization's requirements
-4. Implement the automations in your security stack
-5. Use the learning materials to train your team
 
 
 
-## 📧 Contact
-
-For questions or suggestions, please open an issue in this repository.
